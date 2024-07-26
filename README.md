@@ -28,7 +28,7 @@ Instalation:
 
 Clone the repository:
 ```
-git clone https://github.com/seu-usuario/ecommerce-api.git
+git clone https://github.com/DaveSimoes/ecommerce-api.git
 ```
 Browse to the project directory:
 ```
