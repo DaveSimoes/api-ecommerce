@@ -56,39 +56,39 @@ npm run dev
 The server will be started at http://localhost:5000.
 
 # API routes
-## Products
+## 🛍️ Products
 - GET /api/products: Returns all products.
 - GET /api/products/:id: Returns a specific product.
 - POST /api/products: Creates a new product.
 - PUT /api/products/:id: Updates an existing product.
 - DELETE /api/products/:id: Deletes a product.
 
-## Shopping cart
+## 🛒 Shopping cart
 - GET /api/cart: Returns the contents of the cart.
 - POST /api/cart/add: Adds a product to the cart.
 - POST /api/cart/remove: Removes a product from the cart.
 
- ## Orders
+ ## 🎁 Orders
 - POST /api/orders: Creates a new order from the cart.
 - GET /api/orders/:id: Returns a specific order.
 - GET /api/orders: Returns all orders.
 - PUT /api/orders/:id: Updates the status of an order.
   
-## Contributions
+## ☕ Contributions
 - Contributions are welcome! Feel free to open an issue or send a pull request.
 
-## Fork the project.
+## 🎨 Fork the project.
 - Create a new branch (git checkout -b feature/new-feature).
 - Commit your changes (git commit -am 'Add new feature').
 - Push to the branch (git push origin feature/new-feature).
 - Open a Pull Request.
   
-## License
+## 🪪 License
   Distributed under the MIT license. See LICENSE for more information.
 
 If you like this project, leave a star in the repository! ⭐
 
- # Contact us:
+ # ✉️ Contact us:
  Created by David De Paiva - feel free to contact me!
 
 🏆 This project was developed with a lot of effort and dedication. 
